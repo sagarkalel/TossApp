@@ -1,0 +1,2 @@
+/home/sagarkalel/Desktop/flutter_test_apps/toss_app/android/app/.cxx/RelWithDebInfo/2v2a6o4y/x86/CMakeFiles/edit_cache.dir
+/home/sagarkalel/Desktop/flutter_test_apps/toss_app/android/app/.cxx/RelWithDebInfo/2v2a6o4y/x86/CMakeFiles/rebuild_cache.dir
