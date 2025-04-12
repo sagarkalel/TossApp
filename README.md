@@ -22,16 +22,13 @@ A simple and fun Android app that simulates a coin toss! Users can flip a virtua
 ## 🚀 Getting Started
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/toss-app.git
+   git clone https://github.com/sagarkalel/TossApp.git
    ```
 2. Open the project in your preferred IDE  
 3. Run the app on an emulator or real device
 
 ## 🤝 Contributing
 Feel free to fork this project, suggest improvements, or open issues!
-
-## 📃 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
